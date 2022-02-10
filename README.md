@@ -18,7 +18,7 @@
 
 
 
-[![Deploy](https://telegra.ph/file/7cde9e71ebffa93a0d209.jpg)](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot)
+[![Deploy](https://telegra.ph/file/7cde9e71ebffa93a0d209.jpg)](https://heroku.com/deploy?template=https://github.com/Villain002/Pro-Auto-Filter-V1-Bot)
 </a>
 </p>
 </details>
